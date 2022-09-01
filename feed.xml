@@ -3,12 +3,33 @@
     <title>Technical Fun</title>
     <link href="https://blog.ehosted.co.uk/feed.xml" rel="self" />
     <link href="https://blog.ehosted.co.uk" />
-    <updated>2022-09-01T11:54:20+01:00</updated>
+    <updated>2022-09-01T11:58:50+01:00</updated>
     <author>
         <name>Dave</name>
     </author>
     <id>https://blog.ehosted.co.uk</id>
 
+    <entry>
+        <title>Bedrock Server</title>
+        <author>
+            <name>Dave</name>
+        </author>
+        <link href="https://blog.ehosted.co.uk/bedrock-server.html"/>
+        <id>https://blog.ehosted.co.uk/bedrock-server.html</id>
+
+        <updated>2022-09-01T11:58:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is hosted in my office (Read Converted Garedn Shed) and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is hosted in my office (Read Converted Garedn Shed)  and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server </p>
+<figure class="post__image align-center"><img loading="lazy"  src="https://blog.ehosted.co.uk/media/posts/2/PXL_20220901_100256048.MP2569.jpg" sizes="100vw" srcset="https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xs.jpg 300w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-sm.jpg 480w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-md.jpg 768w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-lg.jpg 1024w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xl.jpg 1360w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-2xl.jpg 1600w"  alt="" width="4080" height="3072"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Minecraft Setup</title>
         <author>
@@ -17,7 +38,7 @@
         <link href="https://blog.ehosted.co.uk/the-minecraft-setup.html"/>
         <id>https://blog.ehosted.co.uk/the-minecraft-setup.html</id>
 
-        <updated>2022-09-01T11:54:20+01:00</updated>
+        <updated>2022-09-01T11:57:41+01:00</updated>
             <summary>
                 <![CDATA[
                     This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This&hellip;
@@ -31,7 +52,7 @@
 <p>Xbox Series X   ( Minecraft Bedrock) </p>
 <p>Windows 11 - Dell G15 Gaming Laptop </p>
 <p>Pixel 6Pro - Bedrock and occasional Proxy </p>
-<p>Dell Inspirion - Bedrock Server</p>
+<p><a href="https://blog.ehosted.co.uk/bedrock-server.html">Dell Inspirion - Bedrock Server</a></p>
 <p>Raspberry Pi - Phantom and Java/ Bedrock server ( small scale) </p>
 <p>Oracle Cloud ARM Server - Current Skyblock server</p>
 <p>GitHub - Code repositories </p>

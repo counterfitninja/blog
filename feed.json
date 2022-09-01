@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://blog.ehosted.co.uk/bedrock-server.html",
+            "url": "https://blog.ehosted.co.uk/bedrock-server.html",
+            "title": "Bedrock Server",
+            "summary": "This is hosted in my office (Read Converted Garedn Shed) and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server",
+            "content_html": "<p>This is hosted in my office (Read Converted Garedn Shed)  and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server </p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://blog.ehosted.co.uk/media/posts/2/PXL_20220901_100256048.MP2569.jpg\" sizes=\"100vw\" srcset=\"https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xs.jpg 300w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-sm.jpg 480w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-md.jpg 768w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-lg.jpg 1024w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xl.jpg 1360w ,https://blog.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-2xl.jpg 1600w\"  alt=\"\" width=\"4080\" height=\"3072\"></figure>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-01T11:57:17+01:00",
+            "date_modified": "2022-09-01T11:58:50+01:00"
+        },
+        {
             "id": "https://blog.ehosted.co.uk/the-minecraft-setup.html",
             "url": "https://blog.ehosted.co.uk/the-minecraft-setup.html",
             "title": "The Minecraft Setup",
             "summary": "This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This&hellip;",
-            "content_html": "<p>This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This is primarily do to the Geyser plugins that allows Bedrock clients to connect to Java servers. </p>\n<p>Each of the links below will go into what kit i have, how i use each of them, and what config/ setup i have on each. </p>\n<p>What do i currently have and what do i play on:</p>\n<p>Xbox Series X   ( Minecraft Bedrock) </p>\n<p>Windows 11 - Dell G15 Gaming Laptop </p>\n<p>Pixel 6Pro - Bedrock and occasional Proxy </p>\n<p>Dell Inspirion - Bedrock Server</p>\n<p>Raspberry Pi - Phantom and Java/ Bedrock server ( small scale) </p>\n<p>Oracle Cloud ARM Server - Current Skyblock server</p>\n<p>GitHub - Code repositories </p>\n<p>Cloudflare - DDOS protection and Staic Site Hosting </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "content_html": "<p>This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This is primarily do to the Geyser plugins that allows Bedrock clients to connect to Java servers. </p>\n<p>Each of the links below will go into what kit i have, how i use each of them, and what config/ setup i have on each. </p>\n<p>What do i currently have and what do i play on:</p>\n<p>Xbox Series X   ( Minecraft Bedrock) </p>\n<p>Windows 11 - Dell G15 Gaming Laptop </p>\n<p>Pixel 6Pro - Bedrock and occasional Proxy </p>\n<p><a href=\"https://blog.ehosted.co.uk/bedrock-server.html\">Dell Inspirion - Bedrock Server</a></p>\n<p>Raspberry Pi - Phantom and Java/ Bedrock server ( small scale) </p>\n<p>Oracle Cloud ARM Server - Current Skyblock server</p>\n<p>GitHub - Code repositories </p>\n<p>Cloudflare - DDOS protection and Staic Site Hosting </p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Dave"
             },
             "tags": [
             ],
             "date_published": "2022-09-01T11:05:54+01:00",
-            "date_modified": "2022-09-01T11:54:20+01:00"
+            "date_modified": "2022-09-01T11:57:41+01:00"
         }
     ]
 }
