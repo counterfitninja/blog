@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Technical Fun</title>
+    <link href="https://blog.ehosted.co.uk/feed.xml" rel="self" />
+    <link href="https://blog.ehosted.co.uk" />
+    <updated>2022-09-01T11:54:20+01:00</updated>
+    <author>
+        <name>Dave</name>
+    </author>
+    <id>https://blog.ehosted.co.uk</id>
+
+    <entry>
+        <title>The Minecraft Setup</title>
+        <author>
+            <name>Dave</name>
+        </author>
+        <link href="https://blog.ehosted.co.uk/the-minecraft-setup.html"/>
+        <id>https://blog.ehosted.co.uk/the-minecraft-setup.html</id>
+
+        <updated>2022-09-01T11:54:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This is primarily do to the Geyser plugins that allows Bedrock clients to connect to Java servers. </p>
+<p>Each of the links below will go into what kit i have, how i use each of them, and what config/ setup i have on each. </p>
+<p>What do i currently have and what do i play on:</p>
+<p>Xbox Series X   ( Minecraft Bedrock) </p>
+<p>Windows 11 - Dell G15 Gaming Laptop </p>
+<p>Pixel 6Pro - Bedrock and occasional Proxy </p>
+<p>Dell Inspirion - Bedrock Server</p>
+<p>Raspberry Pi - Phantom and Java/ Bedrock server ( small scale) </p>
+<p>Oracle Cloud ARM Server - Current Skyblock server</p>
+<p>GitHub - Code repositories </p>
+<p>Cloudflare - DDOS protection and Staic Site Hosting </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
