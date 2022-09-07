@@ -10,6 +10,107 @@
     },
     "items": [
         {
+            "id": "https://blog.ehosted.co.uk/cloud.html",
+            "url": "https://blog.ehosted.co.uk/cloud.html",
+            "title": "Cloud",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:53:02+01:00",
+            "date_modified": "2022-09-07T16:53:02+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/cloudflare.html",
+            "url": "https://blog.ehosted.co.uk/cloudflare.html",
+            "title": "Cloudflare ",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:42:21+01:00",
+            "date_modified": "2022-09-07T16:42:21+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/github.html",
+            "url": "https://blog.ehosted.co.uk/github.html",
+            "title": "GitHub",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:42:12+01:00",
+            "date_modified": "2022-09-07T16:42:12+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/oracle-cloud.html",
+            "url": "https://blog.ehosted.co.uk/oracle-cloud.html",
+            "title": "Oracle Cloud",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:42:03+01:00",
+            "date_modified": "2022-09-07T16:42:03+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/raspberry-pi.html",
+            "url": "https://blog.ehosted.co.uk/raspberry-pi.html",
+            "title": "Raspberry Pi",
+            "summary": "I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you&hellip;",
+            "content_html": "<p>I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you can collect for no reason what so ever. However i have now found a use for both and are running in my office performaing their various functions. </p>\n<p>The RPi3b does multi duty in that it run a PiHole DNS protection system and also a Web host for small scale web hosting. I have just moved over to NGINX as the Web server as this allows easy Hosting and also straight forward Proxy to a different internal server. </p>\n<p>The reason for this is that the RPi4 hosts a Java Minecraft Server and a controle panel call Pterodactyl. Pterodcactyl, once installed allows quick and easy creation of games servers through the use of Eggs. It is possible to have multiple users assigned to a server and allows that server to be carved up into multiple servers running different worlds. </p>\n<p>Each Server is run under Docker and is all handles by the Pterodactyl software and provices a nice user interface to manage the server and upload Add ons, much like DynMap. </p>\n<p>Phantom - A Minecraft Proxy solution to allow devices like the Xbox, Switch and other devices that dont allow the user to manually add Microsoft servers for them to show up on the LAN screen as if they were hosted on the local LAN.  </p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:41:21+01:00",
+            "date_modified": "2022-09-07T16:52:02+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/pixel-6-pro.html",
+            "url": "https://blog.ehosted.co.uk/pixel-6-pro.html",
+            "title": "Pixel 6 Pro",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:41:10+01:00",
+            "date_modified": "2022-09-07T16:41:10+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/dell-g15.html",
+            "url": "https://blog.ehosted.co.uk/dell-g15.html",
+            "title": "Dell G15",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:40:49+01:00",
+            "date_modified": "2022-09-07T16:40:49+01:00"
+        },
+        {
+            "id": "https://blog.ehosted.co.uk/xbox-series-x.html",
+            "url": "https://blog.ehosted.co.uk/xbox-series-x.html",
+            "title": "Xbox Series X",
+            "summary": "Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time .",
+            "content_html": "<p>Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time</p>\n<p> </p>\n<p>.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog.ehosted.co.uk/media/posts/4/xbox-series-x-db-1252x800-1576214218.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://blog.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xs.jpg 300w ,https://blog.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-sm.jpg 480w ,https://blog.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-md.jpg 768w\"  alt=\"\" width=\"1252\" height=\"800\"></figure>\n<p> </p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:40:19+01:00",
+            "date_modified": "2022-09-07T16:40:19+01:00"
+        },
+        {
             "id": "https://blog.ehosted.co.uk/technical-background.html",
             "url": "https://blog.ehosted.co.uk/technical-background.html",
             "title": "Technical Background",
@@ -36,20 +137,6 @@
             ],
             "date_published": "2022-09-01T11:57:17+01:00",
             "date_modified": "2022-09-07T16:12:27+01:00"
-        },
-        {
-            "id": "https://blog.ehosted.co.uk/the-minecraft-setup.html",
-            "url": "https://blog.ehosted.co.uk/the-minecraft-setup.html",
-            "title": "The Minecraft Setup",
-            "summary": "This post is to try and document all the different way I play and host minecraft servers so that i&hellip;",
-            "content_html": "<p>This post is to try and document all the different way I play and host minecraft servers so that i dont forget what i have done as time moves on. I play mainly Minecraft Bedrock edition but have recently switched between Java and Bedrock. This is primarily do to the Geyser plugins that allows Bedrock clients to connect to Java servers. </p>\n<p>Each of the links below will go into what kit i have, how i use each of them, and what config/ setup i have on each. </p>\n<p>What do i currently have and what do i play on:</p>\n<p>Xbox Series X   ( Minecraft Bedrock) </p>\n<p>Windows 11 - Dell G15 Gaming Laptop </p>\n<p>Pixel 6Pro - Bedrock and occasional Proxy </p>\n<p><a href=\"https://blog.ehosted.co.uk/bedrock-server.html\">Dell Inspirion - Bedrock Server</a></p>\n<p>Raspberry Pi - Phantom and Java/ Bedrock server ( small scale) </p>\n<p>Oracle Cloud ARM Server - Current Skyblock server</p>\n<p>GitHub - Code repositories </p>\n<p>Cloudflare - DDOS protection and Staic Site Hosting </p>\n<p> </p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "Dave"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-01T11:05:54+01:00",
-            "date_modified": "2022-09-01T11:57:41+01:00"
         }
     ]
 }
