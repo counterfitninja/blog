@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://blog.ehosted.co.uk/technical-background.html",
+            "url": "https://blog.ehosted.co.uk/technical-background.html",
+            "title": "Technical Background",
+            "summary": "I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i&hellip;",
+            "content_html": "<p>I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. </p>\n<p>This blog is not specifically about my work, but is a useful place for me to either write about my technical findings, or more than likley how my technical skills intersect with my hobbies. </p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T16:32:45+01:00",
+            "date_modified": "2022-09-07T16:32:45+01:00"
+        },
+        {
             "id": "https://blog.ehosted.co.uk/bedrock-server.html",
             "url": "https://blog.ehosted.co.uk/bedrock-server.html",
             "title": "Bedrock Server",

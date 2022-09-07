@@ -3,12 +3,33 @@
     <title>Technical Fun</title>
     <link href="https://blog.ehosted.co.uk/feed.xml" rel="self" />
     <link href="https://blog.ehosted.co.uk" />
-    <updated>2022-09-07T16:12:27+01:00</updated>
+    <updated>2022-09-07T16:32:45+01:00</updated>
     <author>
         <name>Dave</name>
     </author>
     <id>https://blog.ehosted.co.uk</id>
 
+    <entry>
+        <title>Technical Background</title>
+        <author>
+            <name>Dave</name>
+        </author>
+        <link href="https://blog.ehosted.co.uk/technical-background.html"/>
+        <id>https://blog.ehosted.co.uk/technical-background.html</id>
+
+        <updated>2022-09-07T16:32:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. </p>
+<p>This blog is not specifically about my work, but is a useful place for me to either write about my technical findings, or more than likley how my technical skills intersect with my hobbies. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bedrock Server</title>
         <author>
